@@ -1,0 +1,34 @@
+p{
+    color: black
+}
+body {
+    background-color: rgb(247, 230, 250);}
+
+table{
+    border="2" bordercolor="gray"  width="800" align="center" style="background-color:aliceblue;"
+}
+
+h2#chapter-two{
+    
+}
+
+b.Заметка_1{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+b.Заметка_2{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+b.Заметка_3{
+    font-size: 20px;
+    font-weight: bold; 
+}
+
+b.Заметка_5{
+    font-size: 20px;
+    font-weight: bold; 
+}
+
